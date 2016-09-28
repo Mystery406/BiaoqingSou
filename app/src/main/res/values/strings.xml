@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">表情搜</string>
+    <string name="action_settings">关于</string>
+    <string name="action_share">分享</string>
+    <string name="action_save">保存</string>
+    <string name="ask_saving_picture">这图我就先盗走了！</string>
+    <string name="picture_has_save_to">图片已保存至 %s 文件夹</string>
+    <string name="api_source_zhuangbi">* 所有图片资源皆来自于 <b>装逼大全</b> zhuangbi.info\n* Github地址: github.com/Mystery406/BiaoqingSou</string>
+    <string name="dialog_about">有了这个APP， 妈妈再也不用担心我斗图斗不过别人了呢~</string>
+    <string name="i_know">知道了</string>
+    <string name="tip_guide">点击右下角搜索图标，可以进行表情关键字搜索哦~~</string>
+</resources>
